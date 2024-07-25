@@ -5,7 +5,7 @@ import cors from "cors";
 const datas = [
   {
     id: "1",
-    name: "Attack on Titan",
+    name: "Attack on Titan ",
     photo_url: "https://wallpapercave.com/wp/wp8326482.jpg",
     rating: 9.0,
     synopsis:
@@ -136,6 +136,6 @@ router.get("/animes", (_req, res) => {
   res.json(datas);
 });
 
-app.listen(process.env.API_PORT, () =>
+app.listen(3000, () =>
   console.log("Server berhasil dijalankan.")
 );
