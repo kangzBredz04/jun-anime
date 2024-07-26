@@ -210,7 +210,7 @@ const datas = [
     id: "18",
     name: "Solo Leveling Season 2",
     photo_url:
-      "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fc844jla7dzo51.jpg&rdt=57814",
+      "https://images.saymedia-content.com/.image/t_share/MTkyMjg5Mjg0NDg3OTE0NzMy/the-20-best-manhwa-with-leveling-system-to-binge-read.jpg",
     rating: 9.0,
     synopsis:
       "Lanjutan dari kisah Jinwoo, sang 'Solo Leveler', yang menghadapi tantangan baru dan musuh yang lebih kuat.",
